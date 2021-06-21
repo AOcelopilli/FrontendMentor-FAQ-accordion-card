@@ -14,9 +14,16 @@
 
   <main>
     <div class="images">
-      <img src="images/illustration-woman-online-mobile.svg" alt="image 1">
-      <img src="images/bg-pattern-mobile.svg" alt="image 1 background">
+      <picture>
+        <source media="(max-width: 700px)" srcset="images/illustration-woman-online-mobile.svg">
+        <img src="images/illustration-woman-online-desktop.svg" alt="image 1">
+      </picture>
+      <picture>
+        <source media="(max-width: 700px)" srcset="images/bg-pattern-mobile.svg">
+        <img src="images/bg-pattern-desktop.svg" alt="image 1 background">
+      </picture>
     </div>
+    <img src="images/illustration-box-desktop.svg" alt="box image">
     <div class="questions">
       <h1>FAQ</h1>
       <details>
