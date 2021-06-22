@@ -32,8 +32,8 @@ The image above is the result of the design.
 
 ### Links
 
-- Solution URL: [Visit]()
-- Live Site URL: [Visit]()
+- Solution URL: [Visit](https://www.frontendmentor.io/solutions/faq-accordion-card-OuDOlVidV)
+- Live Site URL: [Visit](https://aocelopilli.github.io/FrontendMentor-FAQ-accordion-card/)
 
 ## My process
 
