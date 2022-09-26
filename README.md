@@ -26,14 +26,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/FAQ-accordion-card.png)
+![Preview](images/FAQ-accordion-card.png)
 
 The image above is the result of the design.
 
 ### Links
 
 - Solution URL: [Visit](https://www.frontendmentor.io/solutions/faq-accordion-card-OuDOlVidV)
-- Live Site URL: [Visit](https://aocelopilli.github.io/FrontendMentor-FAQ-accordion-card/)
+- Live Site URL: [Visit](https://angelpineda-dev.github.io/FrontendMentor-FAQ-accordion-card/)
 
 ## My process
 
@@ -54,7 +54,7 @@ I'd like to improve the time to make fix things.
 
 ## Author
 
-+ Website - [www.angelpineda.com.mx](https://www.angelpineda.com.mx)
++ Website - [www.angelpineda.dev](https://angelpineda-dev.github.io/Home/)
 + Frontend Mentor - [@angelp495](https://www.frontendmentor.io/profile/angelp495)
-+ Twitter - [@AOcelopilli](https://twitter.com/AOcelopilli)
++ Twitter - [@angelpineda_dev](https://twitter.com/angelpineda_dev)
 
